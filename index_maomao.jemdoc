@@ -1,0 +1,129 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Hao Wang
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+Master,\n Automatic Control Institution in Zhejiang University\n
+No.866 Yuhangtang Road, Xihu District, Hangzhou, Zhejiang Province\n
+Phone: 13588282305 \n
+Email: haohaow@zju.edu.cn
+~~~
+
+== Undergraduate Education - Central South University
+. Background: I obtained my undergraduate degree of Detection and Control at Central South University, ranking 1st in my department.
+. Honors: I was honored as "Outstanding Student Pioneer" of Central South University (0.1 percent) , Study Pioneer, Outstanding Graduate of Hunan Province, etc., and got reported by the official accounts.
+. Language: I received bilingual education for one year; got IELTS score of 6.5 (reading 8), won the first prize in the writting track of Foreign Studies Cup.
+
+== Graduate Education - Zhejiang University
+. I was selected for the cross-innovation class (25 students) in the Dual Brain Center of Zhejiang University.
+. I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
+. I joined the "Smart Rice-Fishery for Rural Revitalization" project (Internet+ Gold Award, Challenge Cup Gold Award) and directed machine learning demonstration.
+. I served as a reviewer for top-tier conferences in machine learning, including ICML, NeurIPS and AAAI.
+
+== Primary Skills
+. Programming: Python machine learning and deep learning.
+. Optimization: Convex optimization, heuristic optimization, bayesian optimization.
+. Modelling: Statistics, Gaussian process, probablisitic graphic models, graph neural networks, causal inference, GANs.
+. Plan and Control: digital signal processing, image processing, control system simulation, navigation, guidance, detection, aircraft control fundamentals.
+. Application: Industrial recommenders, user-growth algorithms, time series forecast.
+
+== Microsoft Research Asia - Social Computing Group
+. I am working with [https://scholar.google.com/citations?user=tSq7dIkAAAAJ&hl=zh-CN&oi=ao Jialia], supervised by [https://scholar.google.com/citations?user=5EQfAFIAAAAJ&hl=zh-CN&oi=ao Xing Xie].
+. I am exploring causal inference and optimal transport technologies to eliminate the bias in recommenders.
+. I am also interested in the super-large kernel convolutional network and its applications with sequential recommendation.
+
+== Ant Group - User-growth Algorithm Group
+. Here I worked with Taiwei-Chang and [https://scholar.google.com/citations?user=HIuCuFkAAAAJ&hl=zh-CN&oi=ao Tianqiao Liu], supervised by Jianmin Huang and [https://scholar.google.com/citations?user=3J4zb7gAAAAJ&hl=zh-CN&oi=ao Wei Chu].
+. I completed a full-stack industrial recommender for Ant Insurance business: requirements communication, data preparation, feature engineering, algorithm coding, online deployment and performance tuning.
+. I demonstrated that ESMM, a classic multi-task recommendation model, suffered from inherent bias for CVR estimation. ESCM was further proposed, which regularizes ESMM with counterfactual risks.
+. Academic results: The effectiveness of ESCM was demonstrated theoretically. We released 1 patent, 1 conference paper, and a special talk on SIGIR; 1 TNNLS submission and 1 ICDE submission.
+. Industrial application: ESCM was deployed on 1) [https://www.mayibao.cn/ Alipay insurance] product page, 2) insurance shelf page, 3) Wufu promotion page, serving 6 million UVs in 10 days, increasing 4 percent business billing and 8 percent actual premiums. 
+
+== Huawei - Noah's Ark Lab
+. Here I worked with [https://scholar.google.com/citations?user=Q1GGOPoAAAAJ&hl=zh-CN&oi=ao Quanyu Dai] and [https://www.jiajunfan.com/ Jiajun Fan], supervised by [https://scholar.google.com/citations?user=fUtHww0AAAAJ&hl=zh-CN&oi=ao Ruiming Tang].
+. I completed a package for causal inference model: data preparation, feature engineering, algorithm extension, and performance evaluation.
+. I demonstrated that existing representation learning based ITE estimators suffer from the effects of mini-batch sampling and unobserved confonders. I proposed ESCFR based on a generalized Sinkhorn divergence to mitigate these issues.
+. Academic results: We have submitted the manuscript to ICLR'23.
+. Industrial application: We are building the uplift model for the Huawei's APPStore and Coupon assignment based on ESCFR.
+
+== Projects
+=== Atmospheric radiation monitoring and nuclear accident early warning
+. Background: We explored on the process monitoring and predictive maintenance of nuclear accidents using massive data from 38 measurement stations.
+. Dose-rate forecasting: We implemented forecasting methods of multi-head attention, spatio-temporal attention, hidden cycle modeling, and spatio-temporal graph networks, acquiring 0.95+ r2.
+. Auto-encoder for Residual Information Mining: We derived a residual architecture through a variational approach, which maximized the joint-likelihood of features and labels directly.
+. Results: We released 3 journal paper, 3 conference papers, 1 oral presentation at China Process Control Conference.
+
+=== XPBoost
+. Background: VC-dimension limits the upper bound of generalization for deep learning; SGD suffers from complex covariance.
+. Contribution: We proposed a new problem of neural network post-optimization. We devised XPBoost, which solved this problem through intelligent optimization and cross-dimensional reduction technology.
+. Results: We improved the baselines by 0.5-3 percent, released 1 paper (under review).
+
+=== Decoupling and Recognition of micro-Doppler signals for complex dynamic multi-targets
+. Target dynamic model: We established the target microdynamic model supporting 3 motion characteristics, 8 electromagnetic parameters and 3 radar modes.
+. Decoupling algorithm: We devised algorithms based on variational modal decomposition to decouple the echo signals from different targets.
+. Recognition algorithm: We devised inter-channel attention modules to adapt model to images with low SNR, and beat the best model in micro-motion mode recognition.
+. Results: We released 2 patents, 1 thesis, 1 journal paper, and got the excellent thesis award of Central South University.
+
+== Patents
+. A lidar target intelligent detector for complex underwater dynamic targets: [https://www.baiten.cn/patent/detail/5a8dc4941305110d3438299d208352cfad02ba43f5c4b531?sc=&fq=&type=&sort=&sortField=&q=CN113281776A&rows=10 Access]
+. A micro-Doppler feature extraction method and system for complex motion targets: [https://www.baiten.cn/patent/detail/11ad23369ea889ac80b476ae0f666b7f531cfd840c264a68?sc=&fq=&type=&sort=&sortField=&q=CN112130142A&rows=10 Access]
+. An intelligent processing system of micro motion signals for complex dynamic multi-targets: [https://www.baiten.cn/patent/detail/11ad23369ea889acd4d0e006c43849afbb2e311e2b85bd69?sc=&fq=&type=&sort=&sortField=&q=CN112184849A&rows=10 Access]
+. A deep learning-based intelligent diagnosis and treatment system and method for breath sounds: [https://www.baiten.cn/patent/detail/57658b842a4e8189fa63090ddf9027e7227ee974779bde88?sc=&fq=&type=&sort=&sortField=&q=CN111789629A&rows=10 Access]
+. A micro-Doppler feature extraction method and system for complex motion targets [https://www.baiten.cn/patent/detail/11ad23369ea889ac80b476ae0f666b7f531cfd840c264a68?sc=&fq=&type=&sort=&sortField=&q=%28in%3A%28%E7%8E%8B%E6%B5%A9%29%29%2BAND%2Bpa%3A%28%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%29&rows=20 Access]
+. A user-item recommendation system based on entire space modeling and causal correction
+. An incremental time-series forecasting system based on monotonic neural differential equations
+
+== Recent Papers 
+. Haozhe Li, *Hao Wang*, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001098&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RlG3rPGnWDmMDtOzMAuyb6kGChiAKfxOfxOlWuH9u5KGQ4i_JeA6bKtHIjJnKpp4w= \" Research on the key nuclide prediction method based on multi-channel dilated convolution BiLSTM model with attention mechanism\" ], Chinese Process Control Conference, 2021.
+. *Hao Wang*, Haozhe Li, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001099&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6TIpLinVhrcu4IZnLFlzkGaJfhpBOmqIhtlxQATOrZe5Ett-_RNQxzBK7w6UgZ4y5A= \" Semi-supervised Stacked Auto-encoder for Residual Information Mining\"], Chinese Process Control Conference, 2021.
+. Zhaoran Liu, Yilin Liao, Shunping Zhao, Wenhai Wang, Yunlong Niu, *Hao Wang*, [https://kns.cnki.net/kcms/detail/detail.aspx?filename=GCKZ202107001097&dbcode=CPFD&dbname=CPFD2022&v=EWFnAIc5r6RSEmSQCY-daaRkow2T-ClAloaE-34GXuEe6uWzxrlzErId_DmovSfVO9NwLYuUqLw= \" A Novel Momentum-GRU Model for Prediction of Time Series Data\"], Chinese Process Control Conference, 2021.
+. Yuxin Huang, *Hao Wang*, [https://ieeexplore.ieee.org/document/9870520 \"Modeling Task Relationships in Multi-variate Soft Sensor with Balanced Mixture-of-Experts\"], IEEE Transactions on Industrial Informatics, 2022.
+. Haozhe Li, Wenhai Wang, Zhaoran Liu, Yunlong Niu, **Hao Wang**, [https://doi.org/10.1016/j.eswa.2022.117832 \"A Novel Locality-Sensitive Hashing Relational Graph Matching Network for Semantic Textual Similarity Measurement\"], Expert Systems With Applications, 2022.
+. *Hao Wang*, Zhiyu Wang, \"Automatic Radiation Monitoring for Nuclear Energy Plants with Spatial-Temporal Adaptive Message Passing Neural Network\", T-AI Under Review, 2022.
+. Zhichao Chen, Jianmin Huang, *Hao Wang*, \"Deep Monotonous Neural Dynamics\", ICDE Under Review, 2022.
+. *Hao Wang*, Taiwei Chang, [https://arxiv.org/abs/2204.05125 \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR, 2022.
+. *Hao Wang*, Jiajun Fan, \"Optimal Transport for Causal Inference\", ICLR Under Review, 2023.
+. *Hao Wang*, Zhichao Chen, [https://arxiv.org/abs/2210.11039 \"Entire Space Counterfactual Learning: Tuning, Analytical Properties and Industrial Applications\"], TNNLS Under Review, 2022.
+. *Hao Wang*, Yilin Liao, \"eXtreme Performance Boosting: Revisiting Statistics and Meta-heuristic Optimization in Deep Learning\", IJCAI Submitted, 2023. 
+. Xinjie Chen, Zhaoran Liu, *Hao Wang*, \"Handling output certainty in ASR system\", ICASSP Under Review, 2022.
+. Yilin Liao, *Hao Wang*, [https://arxiv.org/abs/2108.08689 \"Analyze and Design Network Architectures by Recursion Formulas\"], Arxiv, 2021.
+. Zhenghong Peng, Degui Yang, Xing Wang, *Hao Wang*, [https://www.cnki.com.cn/Article/CJFDTotal-XTYD202112006.htm \"Micro Doppler separation and feature extraction algorithm based on trend estimation\"], Journal of Systems Engineering and Electronics, 2021.
+== Honors and Awards
+. National Scholarship, 2018
+. BYD Scholarship, 2019
+. The First Prize Scholarship of Central South University, 2018
+. The Special Prize Scholarship of Central South University, 2019
+. The First Prize Scholarship of Zhejiang University, 2020
+. The First Prize Scholarship of Zhejiang University, 2021
+. Outstanding Student of Central South University, 2018 
+. Outstanding Student of Central South University, 2019
+. Outstanding Student Pioneer of Central South University, 2019
+. Model Student of Academic Records of Central South University, 2018
+. Outstanding Student of Central South University, 2017
+. Outstanding Graduate Student of Zhejiang University, 2021
+. Merit Graduate Student of Zhejiang University, 2021
+. Outstanding Graduate of Hunan Province, 2020
+. Outstanding Graduate of Central South University, 2020
+. The First Prize of Mathorcup Mathematical Modeling Competition, 2019
+. The Third Prize of Huawei Cup Mathematical Modeling, 2021
+. The Second Prize of Mathorcup Mathematical Modeling Competition, 2018
+. The Third Prize of Huawei Cup Hunan Provincial Mathematical Competition, 2018
+. The First Prize of CPCC Physics Academic Competition, 2017
+. The First Prize of English Writing Competition of Foreign Research Institute Cup, 2018
+. The Third Prize of Internet+ Preliminary Competitio, 2019
+. The Third Prize of American College Student Mathematical Modeling Competition, 2019
+. The Third Prize of American College Student Mathematical Modeling Competition, 2018
+. Outstanding Paper Award of Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
+. Outstanding Paper Award of Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
+. Outstanding Project of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
+. Outstanding Project of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
+. Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2019
+. Outstanding Demo Award of the Annual Conference of Innovation and Entrepreneurship of Central South University, 2020
+. The Eighth Place of the Exhibition Dance in the University Dance Championship, 2019
+. The Champion of Rumba in College Group in Hunan Provincial Sports Competition, 2019
+. The First Prize of Waltz in Hunan Provincial Sports Competition, 2019
+. The Second Prize of Cowboy in Hunan Province Sports Competition, 2019
+. Qualification of Latin Dance Teacher, 2018
+
+[cv.pdf A brief cv].
+
