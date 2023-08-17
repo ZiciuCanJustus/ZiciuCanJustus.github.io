@@ -51,7 +51,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 === The Synthesis of Machine Learning Systems from the Perspective of Cybernetics/ Optimization
 . Background: We found that existing Variational Inference algorithm can be reformulated into a stochastic optimal control problem thanks to the celebrated Girsanov theorem. As such, how to analyze the variational inference model from the perspective of cybernetics is an interesting topic.
 . Contribution: We simplify the optimal control problem with respect to the variational inference problem, and derive a novel expectation maximization method which does not need to discretize model in time domain. To this extend formulate a novel algorithm named adjoint Expectation Maximization, which solve the continuous-time latent variable model efficiently under large dataset.
-. Results: 1 IEEE Transactions on Automation Science and Engineering (resubmitted), 1 NeuralIPS (in submission), 2 CIKM papers
+. Results: 1 IEEE Transactions on Automation Science and Engineering (resubmitted), 1 NeurIPS 2024 (rebuttal), 2 CIKM papers
 
 
 === Industrial Waste Heat Driven Waste Water Recovery
@@ -77,22 +77,22 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == First Author Papers
-. \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\", 32nd ACM International Conference on Information and Knowledge Management, 2023.
-. \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\", 32nd ACM International Conference on Information and Knowledge Management, 2023.
+. \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\", CIKM'23, 2023.
+. \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\", CIKM'23, 2023.
 . [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence, 2022.
 . [https://ieeexplore.ieee.org/document/9612030/\" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics, 2022.
 . [https://www.sciencedirect.com/science/article/pii/S0009250921005261\" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science, 2021.
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities, 2021.
 . \"Rethinking the Parameter Learning of Probabilistic Nonlinear Dynamical System\", IEEE Transactions on Automation Science and Engineering (Resubmitted), 2023.
 . \"Knowledge Masking Network\", IEEE Transactions on Systems, Man, and Cybernetics (Resubmitting), 2022.
-. \"Adjoint Expectation Maximization\", NeuralIPS, (Rebuttal), 2024.
+. \"Adjoint Expectation Maximization\", NeurIPS 2024, (Rebuttal), 2024.
 == Co-Author Papers
-. [https://arxiv.org/abs/2204.05125 \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR, 2022.
-. \"Optimal Transport for Causal Inference\", NeuralIPS Under Review, 2024.
+. [https://arxiv.org/abs/2204.05125 \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR 2022, 2022.
+. \"Optimal Transport for Causal Inference\", NeurIPS 2024 (Rebuttal), 2024.
 . [https://www.sciencedirect.com/science/article/pii/B9780128185971500059 \" Modeling and Optimization of Simultaneous Waste Heat Utilization and Wastewater Treatment Processes\" ], Computer Aided Chemical Engineering, 2019.
 . \"TMoE-P: Towards the Pareto Optimum for Multivariate Soft Sensors\", IEEE Transactions on Neural Network and Learning Systems (Submitting), 2023.
-. \"Learning to Rank for Event Stream Modeling: A New Perspective\", AAAI'2024, 2024.
-. \"SPEC: Constructing Reliable Sequential User Model using Slide-window Spectrum\", AAAI'2024, 2024.
+. \"Learning to Rank for Event Stream Modeling: A New Perspective\", AAAI'2024 (Submitting), 2024.
+. \"SPEC: Constructing Reliable Sequential User Model using Slide-window Spectrum\", AAAI'2024 (Submitting), 2024.
 
 
 
