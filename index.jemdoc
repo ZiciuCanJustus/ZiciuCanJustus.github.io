@@ -52,13 +52,13 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . Background: We found that existing Variational Inference algorithm can be reformulated into a stochastic optimal control problem thanks to the celebrated Girsanov theorem. As such, how to analyze the variational inference model from the perspective of cybernetics is an interesting topic.
 . Contribution: We simplify the optimal control problem with respect to the variational inference problem, and derive a novel expectation maximization method which does not need to discretize model in time domain. To this extend formulate a novel algorithm named adjoint Expectation Maximization, which solve the continuous-time latent variable model efficiently under large dataset.
 . Results: 1 IEEE Transactions on Automation Science and Engineering (resubmitted), 1 NeurIPS 2024 (rebuttal), 2 CIKM papers
+. Slogan: *Is Control Dead? No! Make Control & Optimization Great Again!*
 
 
 === Industrial Waste Heat Driven Waste Water Recovery
 . Background: Industrial process has been greatly confronted with inevitable waste heat and waste water. To this extend, how to handle these waste water throughout these waste heat from the perspective of process synthesis with the consideration of the waste water temperature uncertainty is an interesting problem.
 . Contribution: We model the waste heat-driven organic Rankine cycle process and reverse osmosis-based waste water processing plant rigorously in GAMS platform. On this basis, we test the integrated system stability by a linear programming model relaxed from an mix-integer non linear programming problem.
 . Results: With the help of the proposed model, the unit product cost of our designed system is lower than those of the conventional reverse osmosis system. We proposed 1 SCI journal paper, 1 EI journal paper, and 1 EI conference paper.
-. Slogan: *Is Control Dead? No! Make Control & Optimization Great Again!*
 
 === Multi-source Heterogeneous and Low Quality Industrial Data Modeling & Fusion Methodology (National Natural Science Foundation of China)
 . Background: Industrial big data has been greatly confronted with low quality property for the existence of the measurement noise. Besides, due to the diversity of the process measurement instruments including but not limited to camera, sonar, etc, how to fuse different data source in the data-driven model to better support the downstream task is a crucial problem.
