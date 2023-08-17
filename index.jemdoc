@@ -43,8 +43,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 === Industrial Application
 . *Cumulative Time-series Forecasting:* The proposed time-series forecasting algorithm is deployed in the backend of Ant Five-Blessing activity as the reference for card allocation.
 . *Anomaly Detection & Diagnosis:* The proposed anomaly detection & diagnosis algorithm is deployed in the backend of Ant applet monitoring.
-. *Recommender System:* The proposed time-series forecasting algorithm is deployed in the backend of Ant Five-Blessing backend.
-
+. *Recommender System:* Insurance business.
 
 
 == Projects
