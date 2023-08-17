@@ -77,8 +77,8 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == First Author Papers
-. [\" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\" ], 32nd ACM International Conference on Information and Knowledge Management, 2023.
-. [\" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\" ], 32nd ACM International Conference on Information and Knowledge Management, 2023.
+. \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\", 32nd ACM International Conference on Information and Knowledge Management, 2023.
+. \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\", 32nd ACM International Conference on Information and Knowledge Management, 2023.
 . [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence, 2022.
 . [https://ieeexplore.ieee.org/document/9612030/\" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics, 2022.
 . [https://www.sciencedirect.com/science/article/pii/S0009250921005261\" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science, 2021.
