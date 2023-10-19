@@ -83,10 +83,8 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . [https://ieeexplore.ieee.org/document/9612030/\" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics (CCF-C, Accepted), 2022.
 . [https://www.sciencedirect.com/science/article/pii/S0009250921005261\" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science, 2021.
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities, 2021.
-. \"Rethinking the Parameter Learning of Probabilistic Nonlinear Dynamical System\", IEEE Transactions on Automation Science and Engineering (Withdrawed), 2023.
-. \"Knowledge Masking Network\", IEEE Transactions on Systems, Man, and Cybernetics (Resubmitting), 2022.
-. \"Adjoint Expectation Maximization\", NeurIPS 2024, (Rebuttal), 2024.
 == Co-Author Papers
+. Optimal Transport for Counterfactual Regression: A New Perspective, NeurIPS 2024 (CCF-A, Accepted), 2023
 . [https://arxiv.org/abs/2204.05125 \"ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR 2022, 2022.
 . \"Optimal Transport for Causal Inference\", NeurIPS 2024 (Rebuttal), 2024.
 . [https://www.sciencedirect.com/science/article/pii/B9780128185971500059 \" Modeling and Optimization of Simultaneous Waste Heat Utilization and Wastewater Treatment Processes\" ], Computer Aided Chemical Engineering, 2019.
