@@ -75,7 +75,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == First Author Papers
-. \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\", IEEE Transactions on Knowledge and Data Engineering (CCF-A, Accepted), 2023.
+. [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (CCF-A, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence, 2022.
