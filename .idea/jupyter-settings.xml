@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/PycharmProjects/optimalControl/MissingDataOT-master (1)/.idea/MissingDataOT-master (1).iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\Justus\Anaconda3\envs\pyroenv\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/PycharmProjects/pcPycharm/PycharmProjects/OthersResearch/SQQ/02.19.2020/半监督自集成(增强)堆叠自编码器/甲烷化炉/甲烷化炉/Data/.idea/Data.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\Justus\Anaconda3\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/PycharmProjects/variationalInferenceOthers/GMVAE_work/.idea/GMVAE_work.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\Justus\Anaconda3\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="D:/PycharmProjects/中海油化学工厂合成氨过程数据/一段炉/.idea/一段炉.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\Justus\Anaconda3\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
