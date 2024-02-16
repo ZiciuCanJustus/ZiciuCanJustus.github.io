@@ -31,7 +31,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 == Ant Group - User-growth Algorithm Group
 === cooperator
-. Here I worked with Leilei Ding, supervised by Jianmin Huang and [https://scholar.google.com/citations?user=3J4zb7gAAAAJ&hl=zh-CN&oi=ao Wei Chu].
+. Here I worked with Leilei Ding, supervised by Jianmin Huang and [https://scholar.google.com/citations?user=3J4zb7gAAAAJ&hl=zh-CN&oi=ao Dr. Wei Chu].
 === Project
 . *Cumulative Time-series Forecasting:* I proposed a novel time-series forecasting algorithm based on neural ordinary differential equation, and completed a the algorithm part of time-series forecasting task for Ant Five-Blessing (Wufu in Chinese) in 2022.
 . *Anomaly Detection & Diagnosis:* For Ant applet monitoring business (about 20 k applets): requirement communications, data preparation, algorithm coding, offline deployment and performance tuning.
@@ -47,7 +47,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 == Microsoft Research Asia - AI4Science
 === cooperator
-. Here I supervised by [https://scholar.google.com/citations?user=rYd0GEsAAAAJ&hl=en Chang Liu].
+. Here I supervised by [https://scholar.google.com/citations?user=rYd0GEsAAAAJ&hl=en Dr. Chang Liu].
 === Project
 . *Quantum Monte Carlo:* Codebase Reformulation, Reorganization, Experiments Execution.
 
