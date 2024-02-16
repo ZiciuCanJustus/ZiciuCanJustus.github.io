@@ -5,18 +5,18 @@
 {}{img_left}{photos/bioCZC.jpg}{104}{155}{alt text}{http://people.kth.se/~euhanna/}
 PhD Candidate,\n College of Control Science and Engineering, Zhejiang University\n
 No. 38 Zheda Rd.(Yuquan Campus), Hangzhou, Zhejiang Province, People's Republic of China\n
-Phone: 18027539728 \n
+Phone: +86-18027539728 \n
 Email: 12032042@zju.edu.cn, chenzhch7@mail3.sysu.edu.cn \n
 Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 ~~~
 
-== Undergraduate Education - Sun Yat-Sen University
+== Undergraduate Education - Sun Yat-Sen University (2016 to 2020)
 . Background: Undergraduate degree of Chemical Engineering and Technology, Sun Yat-Sen University. GPA 4.1-5.0, ranking 2-108.
 . Honors: I won national scholarships twice during my undergraduate period.
 . As first author, I had 1 paper accepted
 . Language: I received CET-6 at 533.
 
-== Graduate Education - Zhejiang University
+== Graduate Education - Zhejiang University (PhD Candidate, 2020 to now)
 . I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . During my first year study, I obtained a GPA of 4.27-5.0.
 . As first author, I had 2 journal papers accepted, 4 journal papers in submission, and 2 conference paper accepted.
@@ -78,7 +78,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . An incremental time-series forecasting system based on monotonic neural differential equations
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
-== First Author Papers (Accepted)
+== First-Authored Papers (Accepted)
 . [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (CCF-A, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
@@ -88,22 +88,22 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities, 2021.
 
 
-== First Author Papers (In submission, Resentful Works)
+== First-Authored Papers (In submission, Resentful Works)
 /So far, I think I have done a fairly good job in theory, but I often encounter unreasonable and arrogant rejection comments./
 . [drafts/adjointEM.pdf  \" Nonlinear Latent Variable Model Empowered By Linear Differential Equation and Its Parameter Learning\"], In Submission.
 . [drafts/control_dplvm.pdf  \" Improving Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], In Submission.
+. [drafts/ConstraintSoftSensor.pdf  \" Fusing Prior Knowledge with Data-Driven Inferential Sensor Under Industrial Scenario\"], In Submission.
 
-== First Author Papers (Attempt Works)
+== First-Authored Papers (In submission, Attempt Works)
 . \" GBrNPLVR: Nonlinear Probabilistic Latent Variable Regression with Gaussian Prior as "Bridge" For Industrial Inferential Sensor Modeling\", In Submission.
 . \" OptNPLVM: Optimizing Nonlinear Probabilistic Latent Variable Model For Inferential Sensors\", In Submission.
 
 
 == Co-Authored Papers
+. [https://arxiv.org/abs/2402.02399 \" FreDF: Learning to Forecast in Frequency Domain\"], 2024
 . [https://arxiv.org/abs/2310.18286 \" Optimal Transport for Treatment Effect Estimation\"], NeurIPS 2023 (CCF-A, Accepted), 2023
 . [https://arxiv.org/abs/2204.05125 \" ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR 2022 (CCF-A, Accepted), 2022.
 . [https://www.sciencedirect.com/science/article/pii/B9780128185971500059 \" Modeling and Optimization of Simultaneous Waste Heat Utilization and Wastewater Treatment Processes\" ], Computer Aided Chemical Engineering, 2019.
-. \" Learning to Rank for Event Stream Modeling: A New Perspective\", AAAI'2024 (CCF-A, Submitting), 2024.
-. \" SPEC: Constructing Reliable Sequential User Model using Slide-window Spectrum\", AAAI'2024 (CCF-A, Submitting), 2024.
 
 
 
