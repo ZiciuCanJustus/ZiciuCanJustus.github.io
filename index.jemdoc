@@ -13,14 +13,14 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 == Undergraduate Education - Sun Yat-Sen University (2016 to 2020)
 . Background: Undergraduate degree of Chemical Engineering and Technology, Sun Yat-Sen University. GPA 4.1-5.0, ranking 2-108.
 . Honors: I won national scholarships twice during my undergraduate period.
-. As first author, I had 1 paper accepted
+. As first author, I had 1 paper accepted under the supervision of A.P. [https://scholar.google.com/citations?user=GsEOWLAAAAAJ&hl=en Chang He] and A.P. [https://scholar.google.com/citations?user=hVOJkXUAAAAJ&hl=en Haoshui Yu]
 . Language: I received CET-6 at 533.
 
 == Graduate Education - Zhejiang University (PhD Candidate, 2020 to now)
 . I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . During my first year study, I obtained a GPA of 4.27-5.0.
-. As first author, I had 2 journal papers accepted, 4 journal papers in submission, and 2 conference paper accepted.
-. As co-author, I had 1 conference paper accepted, 2 conference papers in submission.
+. As first author, I had 3 journal papers accepted, 5 journal papers in submission, and 2 conference paper accepted.
+. As co-author, I had 2 conference paper accepted, 2 conference papers in submission.
 
 == Primary Skills
 . Programming: Python machine learning ([https://jax.readthedocs.io/en/latest/_autosummary/jax.lax.cond.html JAX]/ [https://pytorch.org/ PyTorch]), probabilistic programming language ([https://pyro.ai/ Pyro]), and General Algebraic Modeling System ([https://www.gams.com/ GAMS]).
@@ -37,7 +37,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . *Anomaly Detection & Diagnosis:* For Ant applet monitoring business (about 20 k applets): requirement communications, data preparation, algorithm coding, offline deployment and performance tuning.
 . *CVR Estimation (Recommender System):* I participated in the ESCM model, which regularizes the ESMM with counterfactual risks minimization for CVR estimation.
 === Results
-. *Cumulative Time-series Forecasting:*: We released 1 CIKM applied research track paper (CIKM'23), and 1 patent.
+. *Cumulative Time-series Forecasting:* We released 1 CIKM applied research track paper (CIKM'23), and 1 patent.
 . *Anomaly Detection & Diagnosis:* We released 1 CIKM short paper (CIKM'23), and 1 patent.
 . *Recommender System:* We released 1 patent, 1 SIGIR full-length paper, a special talk on SIGIR'22.
 === Industrial Application
@@ -52,11 +52,12 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . *Quantum Monte Carlo:* Codebase Reformulation, Reorganization, Experiments Execution.
 
 
-== Projects
-===  Understanding Variational Inference from the Perspective of Optimization and its application
-. Slogan: *Is Control Dead? No! Make Control & Optimization Great Again!*
+== Pursuit
+===  Analysis & Synthesize the Systems
+When I was a practitioner in chemical engineering, I focused on how to design the chemical process based on the optimization tools with the goal of minimizing some optimal criteria.
+On this basis, during my PhD journey I also doubted that whether can I do the same thing for machine learning systems?
 
-
+== Funding I Joined
 === Industrial Waste Heat Driven Waste Water Recovery
 . Background: Industrial process has been greatly confronted with inevitable waste heat and waste water. To this extend, how to handle these waste water throughout these waste heat from the perspective of process synthesis with the consideration of the waste water temperature uncertainty is an interesting problem.
 . Contribution: We model the waste heat-driven organic Rankine cycle process and reverse osmosis-based waste water processing plant rigorously in GAMS platform. On this basis, we test the integrated system stability by a linear programming model relaxed from an mix-integer non linear programming problem.
