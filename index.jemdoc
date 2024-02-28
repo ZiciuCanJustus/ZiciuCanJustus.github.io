@@ -17,7 +17,6 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . Language: I received CET-6 at 533.
 
 == Graduate Education - Zhejiang University (PhD Candidate, 2020 to now)
-. I served as a minister of the Faculty Student Union, and minister of the competition department, Artificial Intelligence Association.
 . During my first year study, I obtained a GPA of 4.27-5.0.
 . As first author, I had 3 journal papers accepted, 5 journal papers in submission, and 2 conference paper accepted.
 . As co-author, I had 2 conference paper accepted, 2 conference papers in submission.
@@ -25,7 +24,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 == Primary Skills
 . Programming: Python machine learning ([https://jax.readthedocs.io/en/latest/_autosummary/jax.lax.cond.html JAX]/ [https://pytorch.org/ PyTorch]), probabilistic programming language ([https://pyro.ai/ Pyro]), and General Algebraic Modeling System ([https://www.gams.com/ GAMS]).
 . Optimization: Convex optimization, Optimal Control, Stochastic Optimization.
-. Modelling: Variational Inference, Optimal Control, Bayesian Filtering & Smoothing, Mathematical Programming, Linear Dynamical System, Chemical Engineering Transport Process (Mass, Heat, Momentum).
+. Modelling: Variational Inference, Gradient Flow, Optimal Control, Bayesian Filtering & Smoothing, Mathematical Programming, Linear Dynamical System, Chemical Engineering Transport Process (Mass, Heat, Momentum).
 . Plan and Control: integer programming-based scheduling, control system simulation,
 . Application: Time series forecasting, Anomaly Detection & Diagnosis, Industrial recommenders.
 
@@ -54,8 +53,9 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 == Pursuit
 ===  Analysis & Synthesize the Systems
-When I was a practitioner in chemical engineering, I focused on how to design the chemical process based on the optimization tools with the goal of minimizing some optimal criteria.
-On this basis, during my PhD journey I also doubted that whether can I do the same thing for machine learning systems?
+As **an enthusiast in operations research and optimal control** who has transitioned away from chemical engineering, I still carry forward the analytical mindset and optimization strategies that were fundamental in my chemical engineering background. Now, I am keen on applying this analytical philosophy to the field of machine learning, with a specific focus on Bayesian methods. Although my professional path has diverged from chemical engineering, the core principles of systematic analysis and optimization continue to inform my approach.
+
+My research aim is to delve into how the systematic and analytical thinking cultivated in chemical engineering can be effectively transferred and applied to machine learning. By employing Bayesian methods, I intend to introduce a level of depth and rigor in analysis that parallels the complexities and challenges faced in chemical engineering.
 
 == Funding I Joined
 === Industrial Waste Heat Driven Waste Water Recovery
