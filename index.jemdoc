@@ -76,6 +76,7 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == First-Authored Papers (Accepted)
+. [https://arxiv.org/abs/2406.15762  \" Diffusion Model-based Numerical Tabular Data Imputation: A Wasserstein Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), 2024.
 . [drafts/E2AGModel.pdf  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 8.9, Q2, CCF-A, Accepted), 2023.
