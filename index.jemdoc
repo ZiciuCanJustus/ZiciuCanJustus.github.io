@@ -76,6 +76,7 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == First-Authored Papers (Accepted)
+. [drafts/ConstraintSoftSensor.pdf  \" Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective\"],  IEEE Transactions on Systems Man and Cybernetics: Systems (IF 8.6, Q1, CCF-B, Accepted), 2024.
 . [https://arxiv.org/abs/2406.15762  \" Diffusion Model-based Numerical Tabular Data Imputation: A Wasserstein Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), 2024.
 . [drafts/E2AGModel.pdf  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
@@ -91,7 +92,6 @@ My research aim is to delve into how the systematic and analytical thinking cult
 == First-Authored Papers (In submission, Resentful Works)
 /So far, I think I have done a fairly good job in theory (as far as I can), but I often encounter unreasonable and arrogant rejection comments./
 . [drafts/adjointEM.pdf  \" Nonlinear Latent Variable Model Empowered By Linear Differential Equation and Its Parameter Learning\"], In Submission.
-. [drafts/ConstraintSoftSensor.pdf  \" Fusing Prior Knowledge with Data-Driven Inferential Sensor Under Industrial Scenario\"], In Submission.
 
 == First-Authored Papers (In submission, Attempt Works)
 . \" GBrNPLVR: Nonlinear Probabilistic Latent Variable Regression with Gaussian Prior as "Bridge" For Industrial Inferential Sensor Modeling\", In Submission.
