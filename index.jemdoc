@@ -2,7 +2,7 @@
 == Zhichao Chen/ Ziciu Can(Wade-Giles romanization)
 
 ~~~
-{}{img_left}{photos/bioCZCNew.jpg}{104}{155}{alt text}{http://people.kth.se/~euhanna/}
+{}{img_left}{photos/bioCZCNew.jpg}{104}{155}{alt text}{https://ziciucanjustus.github.io/}
 PhD Candidate,\n College of Control Science and Engineering, Zhejiang University\n
 No. 38 Zheda Rd.(Yuquan Campus), Hangzhou, Zhejiang Province, People's Republic of China\n
 Phone: +86-18027539728 \n
@@ -21,6 +21,43 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . As first author, I had 6 journal papers accepted, 3 journal papers in submission, and 3 conference paper accepted.
 . As co-author, I had 2 conference paper accepted, 2 conference papers in submission.
 . Co-Authors: [https://scholar.google.com/citations?user=2ZMnbaoAAAAJ&hl=zh-CN *Mr. Hao Wang*], [https://scholar.google.com/citations?user=WPjue40AAAAJ&hl=zh-CN *Dr. Le Yao*], [https://scholar.google.com/citations?user=g_EMkuMAAAAJ&hl=zh-CN *Dr. Zhiqiang Ge*], [https://scholar.google.com/citations?user=VD0N7ucAAAAJ&hl=zh-CN, *Dr. Zhihuan Song*]
+
+
+== First-Authored Papers (Accepted)
+. [https://ieeexplore.ieee.org/document/10759849 \" Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective\"],  IEEE Transactions on Systems Man and Cybernetics: Systems (IF 8.6, Q1, CCF-B, Accepted), 2024.
+. [https://openreview.net/forum?id=fIz8K4DJ7w  \" Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (Main Track, Poster, CCF-A, NeurIPS 2024), 2024.
+. [drafts/E2AGModel.pdf  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 8.9, Q2, CCF-A, Accepted), 2023.
+. [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
+. [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
+. [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence (IEEE Transactions), 2022.
+. [https://ieeexplore.ieee.org/document/9612030/ \" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2022.
+. [https://www.sciencedirect.com/science/article/pii/S0009250921005261 \" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science (IF 4.1, Q2, Accepted), 2021.
+. [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities (In Chinese), 2021.
+
+== Corresponding-Authored Papers
+. [https://ieeexplore.ieee.org/document/10680186 \" SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/10777937 \" LSPT-D: Local Similarity Preserved Transport for Direct Industrial Data Imputation\" ], IEEE Transactions on Automation Science and Engineering (IF 5.9, Q1, CCF-B, Accepted), 2024.
+
+
+== First-Authored Papers (In submission, Resentful Works)
+/So far, I think I have done a fairly good job in theory (as far as I can), but I often encounter unreasonable and arrogant rejection comments./
+. [drafts/adjointEM.pdf  \" Nonlinear Latent Variable Model Empowered By Linear Differential Equation and Its Parameter Learning\"], In Submission.
+
+== First-Authored Papers (In submission, Attempt Works)
+. \" GBrNPLVR: Nonlinear Probabilistic Latent Variable Regression with Gaussian Prior as "Bridge" For Industrial Inferential Sensor Modeling\", In Submission.
+. \" OptNPLVM: Optimizing Nonlinear Probabilistic Latent Variable Model For Inferential Sensors\", In Submission.
+
+
+== Co-Authored Papers
+. [https://ieeexplore.ieee.org/document/10778061 \" TMoE-P: Toward the Pareto Optimum for Multivariate Soft Sensors\"], IEEE Transactions on Automation Science and Engineering (IF 5.9, Q1, CCF-B, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/10795195 \" Entire Space Counterfactual Learning for Reliable Content Recommendations\"], IEEE Transactions on Information Forensics and Security (IF 6.3, Q1, CCF-A, Accepted), 2024.
+. [https://arxiv.org/abs/2402.02399 \" FreDF: Learning to Forecast in Frequency Domain\"], 2024
+. [https://arxiv.org/abs/2310.18286 \" Optimal Transport for Treatment Effect Estimation\"], NeurIPS 2023 (CCF-A, Accepted), 2023
+. [https://arxiv.org/abs/2204.05125 \" ESCM2:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR 2022 (CCF-A, Accepted), 2022.
+. [https://www.sciencedirect.com/science/article/pii/B9780128185971500059 \" Modeling and Optimization of Simultaneous Waste Heat Utilization and Wastewater Treatment Processes\" ], Computer Aided Chemical Engineering, 2019.
+
 
 == Primary Skills
 . Programming: Python machine learning ([https://jax.readthedocs.io/en/latest/_autosummary/jax.lax.cond.html JAX]/ [https://pytorch.org/ PyTorch]), probabilistic programming language ([https://pyro.ai/ Pyro]), and General Algebraic Modeling System ([https://www.gams.com/ GAMS]).
@@ -75,39 +112,8 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . An incremental time-series forecasting system based on monotonic neural differential equations
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
-== First-Authored Papers (Accepted)
-. [https://ieeexplore.ieee.org/document/10759849 \" Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective\"],  IEEE Transactions on Systems Man and Cybernetics: Systems (IF 8.6, Q1, CCF-B, Accepted), 2024.
-. [https://arxiv.org/abs/2406.15762  \" Diffusion Model-based Numerical Tabular Data Imputation: A Wasserstein Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024), 2024.
-. [drafts/E2AGModel.pdf  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
-. [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
-. [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 8.9, Q2, CCF-A, Accepted), 2023.
-. [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
-. [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
-. [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence (IEEE Transactions), 2022.
-. [https://ieeexplore.ieee.org/document/9612030/ \" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2022.
-. [https://www.sciencedirect.com/science/article/pii/S0009250921005261 \" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science (IF 4.1, Q2, Accepted), 2021.
-. [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities (In Chinese), 2021.
-
-
-== First-Authored Papers (In submission, Resentful Works)
-/So far, I think I have done a fairly good job in theory (as far as I can), but I often encounter unreasonable and arrogant rejection comments./
-. [drafts/adjointEM.pdf  \" Nonlinear Latent Variable Model Empowered By Linear Differential Equation and Its Parameter Learning\"], In Submission.
-
-== First-Authored Papers (In submission, Attempt Works)
-. \" GBrNPLVR: Nonlinear Probabilistic Latent Variable Regression with Gaussian Prior as "Bridge" For Industrial Inferential Sensor Modeling\", In Submission.
-. \" OptNPLVM: Optimizing Nonlinear Probabilistic Latent Variable Model For Inferential Sensors\", In Submission.
-
-
-== Co-Authored Papers
-. [https://ieeexplore.ieee.org/document/10680186 \" SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
-. [https://arxiv.org/abs/2402.02399 \" FreDF: Learning to Forecast in Frequency Domain\"], 2024
-. [https://arxiv.org/abs/2310.18286 \" Optimal Transport for Treatment Effect Estimation\"], NeurIPS 2023 (CCF-A, Accepted), 2023
-. [https://arxiv.org/abs/2204.05125 \" ESCM:Entire Space Counterfactual Multi-task Model for Post-click Conversion Rate Estimation\"], SIGIR 2022 (CCF-A, Accepted), 2022.
-. [https://www.sciencedirect.com/science/article/pii/B9780128185971500059 \" Modeling and Optimization of Simultaneous Waste Heat Utilization and Wastewater Treatment Processes\" ], Computer Aided Chemical Engineering, 2019.
-
-
 == Academic Service
-. Reviewer of ICML-2023, ICLR-2024, ICML-2024, NeurIPS-2024, IEEE TNNLS
+. Reviewer of ICML-2023, ICLR-2024, ICML-2024, NeurIPS-2024, WWWW-2024, AISTATS-2024, AAAI-2025, IEEE TNNLS
 
 
 == Honors and Awards
@@ -120,6 +126,8 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . The First Prize Scholarship of Zhejiang University, 2020
 . The First Prize Scholarship of Zhejiang University, 2021
 . Outstanding Graduate Student of Zhejiang University, 2022
+. SUPCON Scholarship, 2024
+
 == CV attachment
 [resume_english.pdf My CV in English].\n
 [resume_chinese.pdf My CV in Chinese].
