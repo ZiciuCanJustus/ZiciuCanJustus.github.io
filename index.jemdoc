@@ -2,11 +2,11 @@
 == Zhichao Chen/ Ziciu Can(Wade-Giles romanization)
 
 ~~~
-{}{img_left}{photos/bioCZCNew.jpg}{104}{155}{alt text}{https://ziciucanjustus.github.io/}
+{}{img_left}{photos/bioCZCWhite.jpg}{104}{155}{alt text}{https://ziciucanjustus.github.io/}
 PhD Candidate,\n College of Control Science and Engineering, Zhejiang University\n
 No. 38 Zheda Rd.(Yuquan Campus), Hangzhou, Zhejiang Province, People's Republic of China\n
 Phone: +86-18027539728 \n
-Email: 12032042@zju.edu.cn, chenzhch7@mail3.sysu.edu.cn \n
+Email: 12032042@zju.edu.cn, chenzhch7@alumni.sysu.edu.cn \n
 Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 ~~~
 
@@ -16,7 +16,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . As first author, I had 1 paper accepted under the supervision of A.P. [https://scholar.google.com/citations?user=GsEOWLAAAAAJ&hl=en Chang He] and A.P. [https://scholar.google.com/citations?user=hVOJkXUAAAAJ&hl=en Haoshui Yu]
 . Language: I received CET-6 at 533.
 
-== Graduate Education - Zhejiang University (PhD Candidate, 2020 to now)
+== Graduate Education - Zhejiang University (PhD Candidate, 2020 to 2025)
 . During my first year study, I obtained a GPA of 4.27-5.0.
 . As first author, I had 6 journal papers accepted, 3 journal papers in submission, and 3 conference paper accepted.
 . As co-author, I had 2 conference paper accepted, 2 conference papers in submission.
@@ -28,11 +28,12 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 
 == First-Authored Papers (Accepted)
+. [https://ieeexplore.ieee.org/abstract/document/11202603 \" Blending Data and Knowledge for Process Industrial Modeling Under Riemannian Preconditioned Bayesian Framework\"],  IEEE Transactions on Knowledge and Data Engineering (IF 10.4, Q1, CCF-A, Accepted), 2025.
 . [https://ieeexplore.ieee.org/document/10759849 \" Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective\"],  IEEE Transactions on Systems Man and Cybernetics: Systems (IF 8.6, Q1, CCF-B, Accepted), 2024.
 . [https://openreview.net/forum?id=fIz8K4DJ7w  \" Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (Main Track, Poster, CCF-A, NeurIPS 2024), 2024.
 . [drafts/E2AGModel.pdf  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
-. [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 8.9, Q2, CCF-A, Accepted), 2023.
+. [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 10.4, Q1, CCF-A, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence (IEEE Transactions), 2022.
@@ -41,6 +42,8 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities (In Chinese), 2021.
 
 == Corresponding-Authored Papers
+. [https://openreview.net/forum?id=xPTzjpIQNp \" Optimal Transport for Time Series Imputation\" ], The Thirteenth International Conference on Learning Representations (CAAI-A), 2025.
+. [https://doi.org/10.1109/tim.2025.3551122 \" AAKGNN: When Adaptive Graph Neural Network Meets Kolmogorov\-Arnold Network for Industrial Soft Sensors\" ], IEEE Transactions on Instrumentation and Measurement (IF 5.9, Q1, Accepted), 2025.
 . [https://ieeexplore.ieee.org/document/10680186 \" SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10777937 \" LSPT-D: Local Similarity Preserved Transport for Direct Industrial Data Imputation\" ], IEEE Transactions on Automation Science and Engineering (IF 5.9, Q1, CCF-B, Accepted), 2024.
 
