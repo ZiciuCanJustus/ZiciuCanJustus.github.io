@@ -18,9 +18,12 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 == Graduate Education - Zhejiang University (PhD Candidate, 2020 to 2025)
 . During my first year study, I obtained a GPA of 4.27-5.0.
-. As first author, I had 6 journal papers accepted, 3 journal papers in submission, and 3 conference paper accepted.
-. As co-author, I had 2 conference paper accepted, 2 conference papers in submission.
-. Co-Authors: [https://scholar.google.com/citations?user=2ZMnbaoAAAAJ&hl=zh-CN *Mr. Hao Wang*], [https://scholar.google.com/citations?user=WPjue40AAAAJ&hl=zh-CN *Dr. Le Yao*], [https://scholar.google.com/citations?user=g_EMkuMAAAAJ&hl=zh-CN *Dr. Zhiqiang Ge*], [https://scholar.google.com/citations?user=VD0N7ucAAAAJ&hl=zh-CN, *Dr. Zhihuan Song*]
+. Co-Authors: [https://scholar.google.com/citations?user=2ZMnbaoAAAAJ&hl=zh-CN *Dr. Hao Wang*], [https://scholar.google.com/citations?user=WPjue40AAAAJ&hl=zh-CN *Dr. Le Yao*], [https://scholar.google.com/citations?user=g_EMkuMAAAAJ&hl=zh-CN *Prof. Zhiqiang Ge*], [https://scholar.google.com/citations?user=VD0N7ucAAAAJ&hl=zh-CN, *Prof. Zhihuan Song*]
+
+== Post-Doctoral Research Fellow - Peking University (Post Doc., 2025 to 2027)
+. Boya Postdoctoral Fellowship.
+. Co-Authors: [https://zhouchenlin.github.io/ *Prof. Zhouchen Lin*], [https://haoxuanli-pku.github.io/ *Prof. Haoxuan Li*], [https://scholar.google.com/citations?user=2ZMnbaoAAAAJ&hl=zh-CN *Dr. Hao Wang*], [https://scholar.google.com/citations?hl=en&user=0rSY6mgAAAAJ&view_op=list_works&sortby=pubdate *Dr. Yunfei Teng*]
+
 
 == Thesis (In Chinese)
 . [drafts/ThesisResult.pdf  \" Functional-Optimized Probabilistic Latent Variable Models for Soft Sensing\"].
@@ -28,33 +31,32 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 
 == First-Authored Papers (Accepted)
+. [https://openreview.net/forum?id=iqXzDUd36x \" Rethinking the Flow-based Gradual Domain Adaptation: A Semi-Dual Optimal Transport Perspective\"],  The Forty-third International Conference on Machine Learning (CCF-A, CAAI-A), 2026.
 . [https://ieeexplore.ieee.org/abstract/document/11202603 \" Blending Data and Knowledge for Process Industrial Modeling Under Riemannian Preconditioned Bayesian Framework\"],  IEEE Transactions on Knowledge and Data Engineering (IF 10.4, Q1, CCF-A, Accepted), 2025.
 . [https://ieeexplore.ieee.org/document/10759849 \" Improving Data-Driven Inferential Sensor Modeling by Industrial Knowledge: A Bayesian Perspective\"],  IEEE Transactions on Systems Man and Cybernetics: Systems (IF 8.6, Q1, CCF-B, Accepted), 2024.
 . [https://openreview.net/forum?id=fIz8K4DJ7w  \" Rethinking the Diffusion Models for Missing Data Imputation: A Gradient Flow Perspective.\"], The Thirty-Eighth Annual Conference on Neural Information Processing Systems (Main Track, Poster, CCF-A, NeurIPS 2024), 2024.
 . [https://ieeexplore.ieee.org/document/10946007  \" E2AG: Entropy-Regularized Ensemble Adaptive Graph for Industrial Soft Sensor Modeling\"], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, Accepted), 2024.
-. [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/10634990 \" Analyzing and Improving Supervised Nonlinear Dynamical Probabilistic Latent Variable Model for Inferential Sensors\"], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10295560 \" Variational Inference Over Graph: Knowledge Representation for Deep Process Data Analytics\"], IEEE Transactions on Knowledge and Data Engineering (IF 10.4, Q1, CCF-A, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615167 \" Unsupervised Anomaly Detection & Diagnosis: A Stein Variational Gradient Descent Approach\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://dl.acm.org/doi/10.1145/3583780.3615487 \" Monotonic Neural Ordinary Differential Equation: Time-series Forecasting for Cumulative Data\"], CIKM'23 (CCF-B, Accepted), 2023.
 . [https://ieeexplore.ieee.org/document/9790314/ \" Directed Acyclic Graphs With Tears\" ], IEEE Transactions on Artificial Intelligence (IEEE Transactions), 2022.
-. [https://ieeexplore.ieee.org/document/9612030/ \" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2022.
+. [https://ieeexplore.ieee.org/document/9612030/ \" Knowledge Automation Through Graph Mining, Convolution, and Explanation Framework: A Soft Sensor Practice\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2022.
 . [https://www.sciencedirect.com/science/article/pii/S0009250921005261 \" Stochastic optimization-based approach for simultaneous process design and HEN synthesis of tightly-coupled RO-ORC-HI systems under seasonal uncertainty\" ], Chemical Engineering Science (IF 4.1, Q2, Accepted), 2021.
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities (In Chinese), 2021.
 
 == Corresponding-Authored Papers
-. [https://openreview.net/forum?id=xPTzjpIQNp \" Optimal Transport for Time Series Imputation\" ], The Thirteenth International Conference on Learning Representations (CAAI-A), 2025.
-. [https://doi.org/10.1109/tim.2025.3551122 \" AAKGNN: When Adaptive Graph Neural Network Meets Kolmogorov\-Arnold Network for Industrial Soft Sensors\" ], IEEE Transactions on Instrumentation and Measurement (IF 5.9, Q1, Accepted), 2025.
-. [https://ieeexplore.ieee.org/document/10680186 \" SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation\" ], IEEE Transactions on Industrial Informatics (IF 11.7, Q1, CCF-C, Accepted), 2024.
+. [https://ieeexplore.ieee.org/document/11516268 \" Toward Intrinsically Calibrated Uncertainty Quantification in Industrial Data-Driven Models via Diffusion Sampler\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2026.
+. [https://ieeexplore.ieee.org/document/11477839 \" Slack More, Predict Better: Proximal Relaxation for Probabilistic Latent Variable Model-Based Soft Sensors\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2026.
+. [https://openreview.net/forum?id=xPTzjpIQNp \" Optimal Transport for Time Series Imputation\" ], The Thirteenth International Conference on Learning Representations (CCF-A, CAAI-A), 2025.
+. [https://doi.org/10.1109/tim.2025.3551122 \" AKGNN: When Adaptive Graph Neural Network Meets Kolmogorov\-Arnold Network for Industrial Soft Sensors\" ], IEEE Transactions on Instrumentation and Measurement (IF 5.9, Q1, Accepted), 2025.
+. [https://ieeexplore.ieee.org/document/10680186 \" SPOT-I: Similarity Preserved Optimal Transport for Industrial IoT Data Imputation\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10777937 \" LSPT-D: Local Similarity Preserved Transport for Direct Industrial Data Imputation\" ], IEEE Transactions on Automation Science and Engineering (IF 5.9, Q1, CCF-B, Accepted), 2024.
 
 
 == First-Authored Papers (In submission, Resentful Works)
 /So far, I think I have done a fairly good job in theory (as far as I can), but I often encounter unreasonable and arrogant rejection comments./
 . [https://arxiv.org/abs/2507.20277 \" Relaxing Probabilistic Latent Variable Models' Specification via Infinite-Horizon Optimal Control\" ], (In Submission).
-
-== First-Authored Papers (In submission, Attempt Works)
-. \" GBrNPLVR: Nonlinear Probabilistic Latent Variable Regression with Gaussian Prior as "Bridge" For Industrial Inferential Sensor Modeling\", In Submission.
-. \" OptNPLVM: Optimizing Nonlinear Probabilistic Latent Variable Model For Inferential Sensors\", In Submission.
 
 
 == Co-Authored Papers
@@ -120,7 +122,7 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . Stein Variational Gradient Descent Approach for Anomaly Detection & Diagnosis
 
 == Academic Service
-. Reviewer of ICML-2023, ICLR-2024, ICML-2024, NeurIPS-2024, WWWW-2024, AISTATS-2024, AAAI-2025, IEEE TNNLS
+. Reviewer of ICML-2023/2024/2025/2026, ICLR-2024/2025/2026, NeurIPS-2024/2025/2026, WWWW-2024, AISTATS-2024/2025, AAAI-2025/2026, IEEE TPAMI, IEEE TNNLS
 
 
 == Honors and Awards
@@ -134,6 +136,7 @@ My research aim is to delve into how the systematic and analytical thinking cult
 . The First Prize Scholarship of Zhejiang University, 2021
 . Outstanding Graduate Student of Zhejiang University, 2022
 . SUPCON Scholarship, 2024
+. Gold Reviewer Award of ICML 2026, 2026
 
 == CV attachment
 [resume_english.pdf My CV in English].\n
