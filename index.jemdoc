@@ -46,6 +46,7 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 . [http://www.xml-data.cn/GXHXGCXB/html/0c799b77-9342-471b-898e-8944b5d13627.htm \" Optimization of waste heat-driven wastewater desalination process in chemical process\" ], Journal of Chemical Engineering of Chinese Universities (In Chinese), 2021.
 
 == Corresponding-Authored Papers
+. [drafts/FMIT.pdf \" FMT-I: Flexible Mass Transport for Noise-Resilient Missing Data Imputation. \" ], IEEE/CAA Journal of Automatica Sinica (IF 15.3, Top 1, Q1, In press), 2026.
 . [https://ieeexplore.ieee.org/document/11516268 \" Toward Intrinsically Calibrated Uncertainty Quantification in Industrial Data-Driven Models via Diffusion Sampler\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2026.
 . [https://ieeexplore.ieee.org/document/11477839 \" Slack More, Predict Better: Proximal Relaxation for Probabilistic Latent Variable Model-Based Soft Sensors\" ], IEEE Transactions on Industrial Informatics (IF 9.9, Q1, CCF-C, Accepted), 2026.
 . [https://openreview.net/forum?id=xPTzjpIQNp \" Optimal Transport for Time Series Imputation\" ], The Thirteenth International Conference on Learning Representations (CCF-A, CAAI-A), 2025.
@@ -60,6 +61,9 @@ Supervisor: [https://person.zju.edu.cn/en/zhsong Professor Zhihuan Song ]
 
 
 == Co-Authored Papers
+. [https://openreview.net/forum?id=membbcuXeR \" Unbiased Reward Modeling from Implicit Feedback for LLM Alignment\"],  The Forty-third International Conference on Machine Learning (CCF-A, CAAI-A), 2026.
+. [https://dl.acm.org/doi/abs/10.1145/3711896.3737092 \" Proximity matters: Local proximity enhanced balancing for treatment effect estimation\"],  Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (CCF-A, CAAI-A), 2025.
+. [https://openreview.net/forum?id=0E5rZOGA13 \" Unbiased Recommender Learning from Implicit Feedback via Weakly Supervised Learning\"],  The Forty-second International Conference on Machine Learning (CCF-A, CAAI-A), 2025.
 . [https://ieeexplore.ieee.org/document/10778061 \" TMoE-P: Toward the Pareto Optimum for Multivariate Soft Sensors\"], IEEE Transactions on Automation Science and Engineering (IF 5.9, Q1, CCF-B, Accepted), 2024.
 . [https://ieeexplore.ieee.org/document/10795195 \" Entire Space Counterfactual Learning for Reliable Content Recommendations\"], IEEE Transactions on Information Forensics and Security (IF 6.3, Q1, CCF-A, Accepted), 2024.
 . [https://arxiv.org/abs/2402.02399 \" FreDF: Learning to Forecast in Frequency Domain\"], 2024
